@@ -1,0 +1,22 @@
+div {
+    background-color: lightblue;
+}
+
+a {
+    font-size: large;
+}
+
+.lasagna {
+    color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.toast {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.burger {
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
