@@ -1,9 +1,15 @@
-div {
+.title {
     background-color: lightblue;
+    display: block;
 }
 
 a {
     font-size: large;
+}
+
+li {
+    padding: 5px 4px;
+    margin: 5px auto;
 }
 
 .lasagna {
